@@ -6,6 +6,8 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPageObjects {
 //this driver has no scope
+	
+	//this line for git projects to show changes in project
 	public WebDriver driver;
 	
 	//we have achieved encapsulation here
